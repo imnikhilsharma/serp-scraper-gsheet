@@ -1,6 +1,6 @@
 function IMPORTFROMGOOGLE(query, dateRange) {
-  const apiKey = 'AIzaSyBKp-GBEY6WLBOthlrgAOcICtOFQkH4ggU';
-  const cxId = '848f1b45fd37742ee';
+  const apiKey = 'Your API KEY';
+  const cxId = 'Your Custom Search Engine ID';
   const results = [];
   let start = 1;
   const maxResults = 100; // Maximum results you want to retrieve
