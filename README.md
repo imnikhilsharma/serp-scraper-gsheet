@@ -65,10 +65,4 @@ This script is open-source and free to use. Please make sure to adhere to Google
 
 ---
 
-If you have any questions or need assistance, feel free to reach out!
-
-### Key Points:
-
-- Adjust the document to fit any additional specifics about your script.
-- Make sure to clarify how users can get their API key and Custom Search Engine ID if necessary.
-- Customize the language and tone according to your audience, ensuring clarity and accessibility.
+Feel free to reach out if you have any questions or need assistance!
